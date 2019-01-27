@@ -29,3 +29,7 @@ How to use:
 
 How to obtain pitch and roll values:
 Using a processor like NIOS II and using C code incluided.
+
+Questions:
+dmorang@hotmail.com
+Daniel Moran.
