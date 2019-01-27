@@ -1,3 +1,5 @@
+//Obtaining pitch and roll angles from mpu6050
+
 #include "stdio.h"
 #include "math.h"
 
