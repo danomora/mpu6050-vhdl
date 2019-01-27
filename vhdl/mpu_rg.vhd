@@ -1,3 +1,9 @@
+----------------------------------------------------------------------------------
+-- Engineer: 	Daniel Moran <dmorang@hotmail.com>
+-- Project: 	mpu6050 
+-- Description: reading raw values for mpu6050
+----------------------------------------------------------------------------------
+
 LIBRARY IEEE;
 USE IEEE.STD_LOGIC_1164.ALL;
 USE IEEE.STD_LOGIC_UNSIGNED.ALL;
