@@ -30,6 +30,10 @@ How to use:
 How to obtain pitch and roll values:
 Using a processor like NIOS II and using C code incluided.
 
+Test project made in Quartus 18.1:
+https://1drv.ms/u/s!Asbr1H_ypU3ziYonkMjt88yz0R79Xg?e=U66aPa
+
 Questions:
 dmorang@hotmail.com
+https://www.linkedin.com/in/danmorang/
 Daniel Moran.
