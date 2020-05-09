@@ -35,5 +35,7 @@ https://1drv.ms/u/s!Asbr1H_ypU3ziYonkMjt88yz0R79Xg?e=U66aPa
 
 Questions:
 dmorang@hotmail.com
+
 https://www.linkedin.com/in/danmorang/
+
 Daniel Moran.
